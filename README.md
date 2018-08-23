@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## (In Progressing)
 
 Implementation of MuseGAN
@@ -15,3 +16,7 @@ Hao-Wen Dong\*, Wen-Yi Hsiao\*, Li-Chia Yang and Yi-Hsuan Yang.
 - (data cleansing)  *will soon be released*
 - (data preprocessing)  *will soon be released*
 - (main code)  *will be released in the near future*
+=======
+# MusicNet
+LSTM network based automated music generation system
+>>>>>>> 7e19b31c35bf5dfdfe3fe910c53f2e7941663511
